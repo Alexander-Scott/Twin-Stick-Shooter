@@ -1,0 +1,11 @@
+﻿  Creating makefile for hot reloading Twin_Stick_ShooterEditor (game project files are newer)
+  Compiling game modules for hot reload
+  Parsing headers for Twin_Stick_ShooterEditor
+    Running UnrealHeaderTool "E:\Unreal Engine Projects\Twin-Stick-Shooter\Twin_Stick_Shooter\Twin_Stick_Shooter.uproject" "E:\Unreal Engine Projects\Twin-Stick-Shooter\Twin_Stick_Shooter\Intermediate\Build\Win64\Twin_Stick_ShooterEditor\Development\Twin_Stick_ShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Twin_Stick_ShooterEditor in 2.7338089 seconds
+  Performing 3 actions (4 in parallel)
+  BaseCharacter.cpp
+  Twin_Stick_Shooter.generated.cpp
+  [3/3] Link UE4Editor-Twin_Stick_Shooter-4585.dll
+     Creating library E:\Unreal Engine Projects\Twin-Stick-Shooter\Twin_Stick_Shooter\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Twin_Stick_Shooter-4585.lib and object E:\Unreal Engine Projects\Twin-Stick-Shooter\Twin_Stick_Shooter\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Twin_Stick_Shooter-4585.exp
+  Total build time: 6.12 seconds
